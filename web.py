@@ -19,8 +19,8 @@ def loading_model():
 
 cnn = loading_model()
 st.write("""
-# Cloud Based Web Application Tuberculosis Detection Using CNN App
-Built by Jayes and Team
+# Cloud Based Web Application For Tuberculosis Detection Using CNN App
+Built by Joshmi K Joy and Team
 """)
 
 
@@ -35,7 +35,7 @@ if buffer:
 
 
 if buffer is None:
-    st.text("This model is built for public use by Joshmi K Joy")
+    st.text("This model is built for public use by Joshmi K Joy,Aishwarya Ishwar Naik,Anusha Narayan Naik")
 
 else:
 
