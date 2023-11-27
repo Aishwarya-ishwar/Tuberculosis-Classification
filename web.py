@@ -35,7 +35,7 @@ if buffer:
 
 
 if buffer is None:
-    st.text("This model is built for public use by Joshmi K Joy,Aishwarya Ishwar Naik,Anusha Narayan Naik")
+    st.text("This model is built for public use by Joshmi K Joy,Aishwarya Ishwar Naik,Anusha Narayan Naik,G Raghvendra")
 
 else:
 
